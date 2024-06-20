@@ -1,4 +1,4 @@
-print('Vou te ajudar a pintar sua parede camarada!')
+print('Vou ajudar a pintar sua parede camarada!')
 largura = float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))
 area = largura * altura
